@@ -1,0 +1,3 @@
+revChatGPT==2.3.0
+pyinstaller==5.7.0
+python-dotenv==0.21.1
