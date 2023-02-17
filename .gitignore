@@ -1,0 +1,3 @@
+#this one must be top secret (make your own one by renaming example.env to .env
+.env
+.DS_Store
